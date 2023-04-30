@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate on ...Reactjs
 - 🤔 I’m looking for help with ...AWS
 - 💬 Ask me about ...anything
-- 📫 How to reach me: ...LinkedIn
+- 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/abhay-narayan-846885219/)
 - 
